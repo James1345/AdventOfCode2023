@@ -1,0 +1,16 @@
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/input.txt
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/4
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/4.deps.json
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/4.runtimeconfig.json
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/4.dll
+/Users/james/Workspace/AdventOfCode2023/4/bin/Debug/net7.0/4.pdb
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.csproj.AssemblyReference.cache
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.AssemblyInfoInputs.cache
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.AssemblyInfo.cs
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.csproj.CoreCompileInputs.cache
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.dll
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/refint/4.dll
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.pdb
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/4.genruntimeconfig.cache
+/Users/james/Workspace/AdventOfCode2023/4/obj/Debug/net7.0/ref/4.dll

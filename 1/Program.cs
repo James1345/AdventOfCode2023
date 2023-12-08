@@ -11,7 +11,7 @@ Console.WriteLine(lines.Sum(SelectDigits2));
 
 int SelectDigits(string line)
 {
-    var matches = Regex.Matches(line, @"\d");
+    var matches = MyRegex().Matches(line);
     return int.Parse($"{matches.First()}{matches.Last()}");
 }
 
@@ -37,4 +37,10 @@ internal partial class Program
         {"eight", "ei8ght"},
         {"nine", "ni9ne"}
     };
+}
+
+partial class Program
+{
+    [GeneratedRegex("\\d")]
+    private static partial Regex MyRegex();
 }
